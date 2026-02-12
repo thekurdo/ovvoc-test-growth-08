@@ -1,0 +1,12 @@
+{
+  "name": "ovvoc-test-growth-08",
+  "version": "1.0.0",
+  "description": "API server with ESLint 8 config",
+  "scripts": {
+    "lint": "eslint src/",
+    "test": "node test/lint-config.test.js"
+  },
+  "devDependencies": {
+    "eslint": "8.57.0"
+  }
+}
